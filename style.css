@@ -1,0 +1,19 @@
+/*
+Theme Name: Child of twentyfourteen
+Template: twentyfourteen
+
+*/
+
+.userform{
+	display:block;
+	
+}
+.userform textarea{
+	width:300px;
+	height:250px;
+}
+.userform input, .userform p, .userform select, .userform input[type="submit"], .userform textarea,  h1.headingform{
+	display:block;
+	margin:10px 100px;
+	
+}
